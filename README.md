@@ -1,2 +1,2 @@
-# typing-speed-test-js
+# Typing Speed Test
 Typing speed test created using JavaScript
